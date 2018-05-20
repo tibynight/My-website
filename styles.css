@@ -33,6 +33,7 @@
 .profile---div {
 	position: static;
 	width: 100%;
+	border-radius: 100%;
 	float: left;
 	text-align: center;
 }
