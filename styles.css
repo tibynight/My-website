@@ -4,7 +4,6 @@
 	font-family: Arial,sans-serif;
 	font-size: 14px;
 	line-height: 20px;
-	color: #333;
 }
 
 * {
@@ -18,8 +17,8 @@
 	overflow: scroll;
 	height: 100vh;
 	padding-top: 100px;
-	background-color: #1e2124;
-	color: #b18585;
+	background-color: #0b132b;
+	color: #62929e;
 }
 
 .main---container {
@@ -47,18 +46,16 @@
 
 .profile---name---text {
 	padding-top: 20px;
-	color: #fff;
+	color: white;
 	font-size: 24px;
 	line-height: 70px;
 	font-weight: 400;
 }
 
 .profile---description---text {
-	color: #a7a7a7;
 	font-size: 18px;
 	line-height: 32px;
 	font-weight: 200;
-	font-family: 'Neue frutiger com',sans-serif;
 }
 
 .social---div {
@@ -68,6 +65,7 @@
 .social---link-block {
 	padding-top: 20px;
     padding-right: 20px;
+    color: white;
 }
 
 .w-inline-block {
@@ -78,7 +76,7 @@
 a {
 	background-color: transparent;
 	text-decoration: none;
-	color: white;
+	color: #62929e;
 }
 
 .content---div {
@@ -92,7 +90,7 @@ a {
 .content---text {
 	padding-top: 0;
 	padding-bottom: 100px;
-	color: #a7a7a7;
+	color: #62929e;
 	font-size: 18px;
 	line-height: 32px;
 	font-style: normal;
